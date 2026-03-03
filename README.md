@@ -1,4 +1,4 @@
-# Monitoring Mission 🖥️
+# Monitoring Mission 
 
 Server monitoring project using **Prometheus & Grafana** on VirtualBox.
 
